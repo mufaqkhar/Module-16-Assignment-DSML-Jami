@@ -1,6 +1,6 @@
 # Diabetes Disease Progression Prediction — Simple Linear Regression
 
-**Project status:** Initial project setup
+**Project status:** Baseline regression ready
 
 ## Overview
 This Module 16 project investigates whether baseline body mass index (BMI) can predict diabetes disease progression one year later using simple linear regression.
